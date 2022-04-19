@@ -453,4 +453,7 @@ margin-bottom: 30px;
         padding: 5px 10px;
         background-color: transparent;
       }
+      .img-div > img{
+        width: 458px;height: 285px;
+      }
  
